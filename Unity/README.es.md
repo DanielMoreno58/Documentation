@@ -8,4 +8,6 @@ En Mac cuando abres dos proyectos en unity generalmente se cierra el que tienes 
 
 Una vez abierto podrás seleccionar tu proyecto que deseas abrir y podrás tener dos ventanas de Unity abiertas.
 
+---
+
 Actualizado el 20 de septiembre de 2018.
