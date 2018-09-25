@@ -21,7 +21,9 @@ La cámara ortográfica se usa para escenas de un juego que son estáticas, un t
 
 El skybox es el fondo que unity te da con la cámara por defecto para crear un horizonte de lo que visualiza la cámara.
 
-En este [tutorial](https://www.youtube.com/watch?v=hZTa_kkuSTg) muestra cómo crear un skybox propio.
+En este [tutorial](https://www.youtube.com/watch?v=hZTa_kkuSTg) muestra cómo **crear un skybox propio**.
+
+Este otro [tutorial](https://www.youtube.com/watch?v=QT-6u6NLaus&t=2s) te sirve para **crear un material** para el skybox propio.
 
 ## Otros datos
 
