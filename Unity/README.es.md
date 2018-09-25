@@ -27,6 +27,18 @@ Este otro [tutorial](https://www.youtube.com/watch?v=QT-6u6NLaus&t=2s) te sirve 
 
 ## Otros datos
 
+### Archivos considerados en el control de versiones
+
+Cuando creamos un nuevo proyecto de Unity los únicos folders que deben ser considerados para el control de versiones son:
+
+`/Assets`
+
+`/ProjectSettings`
+
+Cualquier otro archivo debe ser considerado en un `.gitignore`
+
+Ver más información [aquí](https://unity3d.com/es/learn/tutorials/topics/production/mastering-unity-project-folder-structure-version-control-systems)
+
 ### Como abrir dos proyectos de Unity en Mac
 
 En Mac cuando abres dos proyectos en unity generalmente se cierra el que tienes actualmente abierto por defecto, para evadir esta configuración abre un nuevo Unity desde terminal con el siguiente comando:
@@ -37,4 +49,4 @@ Una vez abierto podrás seleccionar tu proyecto que deseas abrir y podrás tener
 
 ---
 
-Actualizado el 20 de septiembre de 2018.
+Actualizado el 25 de septiembre de 2018.
