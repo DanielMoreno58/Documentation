@@ -1,5 +1,25 @@
 # Unity en español
 
+* [Camara](#C%c3%a1mara)
+* [UI](#UI)
+
+## UI
+
+### Canvas
+
+El canvas tiene diversos componentes entre ellos:
+
+* Canvas
+* Canvas Scaler
+* Canvas Group
+* Canvas Renderer
+
+### Canvas Scaler
+
+Es utilizado para controlar la escala en general y densidad de pixeles de los elementos UI en el Canvas.
+
+Si deseamos que nuestro juego tenga una resolución responsiva tenemos que usar los anclajes de RectTransform, tal como indica en los videos [Canvas Scaler](https://www.youtube.com/watch?v=XkfhxuNr9Es) y [Scale UI to the right size for every resolution](https://www.youtube.com/watch?v=svyDgYz5idg).
+
 ## Cámara
 
 En unity existen dos tipos de cámara:
