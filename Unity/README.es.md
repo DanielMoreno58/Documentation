@@ -1,7 +1,7 @@
 # Unity en español
 
-* [Camara](#C%c3%a1mara)
-* [UI](#UI)
+* [Camara](#c%c3%a1mara)
+* [UI](#ui)
 
 ## UI
 
