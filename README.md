@@ -4,12 +4,12 @@ Here I add all the documentation that I learned from different languages, mainly
 
 Version control:
 
-* [Git](https://gitlab.com/danielmoreno58/documentation/tree/development/Git)
+* [Git](https://github.com/danielmoreno58/documentation/tree/development/Git)
 
 Web development:
 
-* [Shopify](https://gitlab.com/danielmoreno58/documentation/tree/development/Shopify)
+* [Shopify](https://github.com/danielmoreno58/documentation/tree/development/Shopify)
 
 Games:
 
-* [Unity](https://gitlab.com/danielmoreno58/documentation/tree/development/Unity)
+* [Unity](https://github.com/danielmoreno58/documentation/tree/development/Unity)
