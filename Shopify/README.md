@@ -116,6 +116,13 @@ You can also change the website locally and push to Shopify automatically by the
 
 This comand change the site with every modification of the local code.
 
+### See the changes in Shopify
+
+For open and visualize the changes in local we can use this command:
+
+* If you are on the **master** branch, the code will be: `theme open --env=production`
+* If you are on the **development** branch, the code will be: `theme open --env=development`
+
 ---
 
 ## References:
