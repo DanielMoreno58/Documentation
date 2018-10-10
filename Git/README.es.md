@@ -1,5 +1,9 @@
 # Git en español
 
+## Configuración de usuario
+
+git config --global user.email "email@example.com"
+
 ## Agregar SSH Key localmente
 
 1. Crear una carpeta llamada .ssh donde quieres guardar tu llave ssh
@@ -55,3 +59,14 @@ git add -A
 git commit -m 'Removing ignored files'
 ```
 Para más información da click [aquí](https://eric.blog/2014/05/11/remove-files-from-git-addingupdating-gitignore/).
+
+## Lista de comandos Git:
+
+|        Comando         |                     Explicación                      |
+| ---------------------- | ---------------------------------------------------- |
+| `git reflog`           | Muestra todos los comandos que se ejecutaron en git  |
+| `git reset 'HEAD@{1}'` | Regresa a un comando que ejecutaste en git           |
+
+## Referencias
+
+Git reflog y reset 'HEAD@{1}': [Pregunta stackoverflow](https://stackoverflow.com/questions/2510276/undoing-git-reset)
