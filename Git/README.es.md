@@ -1,5 +1,7 @@
 # Git en español
 
+Lenguajes: [Español](https://github.com/danielmoreno58/documentation/tree/development/Git/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/development/Git/README.md)
+
 ## Configuración de usuario
 
 git config --global user.email "email@example.com"
