@@ -1,3 +1,3 @@
 # 7 Software Testing Principles
 
-Languages: [Spanish](https://github.com/danielmoreno58/documentation/tree/development/Testing/README.es.md), [English](https://github.com/danielmoreno58/documentation/tree/development/Testing/README.md)
+Languages: [Spanish](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.es.md), [English](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.md)
