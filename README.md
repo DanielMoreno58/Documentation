@@ -15,6 +15,7 @@ Web development:
 CMS:
 
 * [Shopify](https://github.com/danielmoreno58/documentation/tree/master/Shopify)
+* [Liquid](https://github.com/danielmoreno58/documentation/tree/master/Liquid)
 
 Software development:
 
