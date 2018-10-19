@@ -1,6 +1,6 @@
 # Git en español
 
-Lenguajes: [Español](https://github.com/danielmoreno58/documentation/tree/master/Git/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Git/README.md)
+Idiomas: [Español](https://github.com/danielmoreno58/documentation/tree/master/Git/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Git/README.md)
 
 ## Configuración de usuario
 

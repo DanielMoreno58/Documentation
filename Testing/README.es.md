@@ -1,6 +1,6 @@
 # 7 principios de prueba de software
 
-Lenguajes: [Español](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.md)
+Idiomas: [Español](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Testing/README.md)
 
 1. _Las pruebas muestran la presencia de defectos_
 

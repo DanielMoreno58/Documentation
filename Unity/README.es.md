@@ -1,6 +1,6 @@
 # Unity en español
 
-Lenguajes: [Español](https://github.com/danielmoreno58/documentation/tree/master/Unity/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Unity/README.md)
+Idiomas: [Español](https://github.com/danielmoreno58/documentation/tree/master/Unity/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/Unity/README.md)
 
 * [Camara](#c%c3%a1mara)
 * [UI](#ui)

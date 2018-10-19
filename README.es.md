@@ -1,6 +1,6 @@
 # Documentación
 
-Lenguajes: [Español](https://github.com/danielmoreno58/documentation/tree/master/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/README.md)
+Idiomas: [Español](https://github.com/danielmoreno58/documentation/tree/master/README.es.md), [Inglés](https://github.com/danielmoreno58/documentation/tree/master/README.md)
 
 Aquí he agregado toda la documentación que he aprendido de diferentes lenguajes de programación, principalmente escribo esta información en Español e Inglés.
 
