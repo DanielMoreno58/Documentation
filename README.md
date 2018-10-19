@@ -1,5 +1,7 @@
 # Documentation
 
+Languages: [Spanish](https://github.com/danielmoreno58/documentation/tree/master/README.es.md), [English](https://github.com/danielmoreno58/documentation/tree/master/README.md)
+
 Here I add all the documentation that I learned from different languages, mainly in Spanish and in English.
 
 Version control:
