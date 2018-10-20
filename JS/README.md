@@ -5,3 +5,7 @@ Languages: [Spanish](https://github.com/danielmoreno58/documentation/tree/master
 Frameworks:
 
 * [Jquery](https://github.com/danielmoreno58/documentation/tree/master/JS/JQUERY/README.md)
+
+## References:
+
+SessionStorage: https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage
