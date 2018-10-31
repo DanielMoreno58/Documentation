@@ -15,6 +15,7 @@ Desarrollo web:
 
 Sistema de gestión de contenidos:
 
+* [Wordpress](https://github.com/danielmoreno58/documentation/tree/master/Wordpress)
 * [Shopify](https://github.com/danielmoreno58/documentation/tree/master/Shopify)
 * [Liquid](https://github.com/danielmoreno58/documentation/tree/master/Liquid)
 
