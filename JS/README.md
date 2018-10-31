@@ -67,6 +67,16 @@ Array is an object that define a list of primative data, for example:
 
 `var students = ["Daniel", "Daniela", "Jose", "Pancho", "Josefina"];`
 
+### Calling an array
+
+Calling an array is just simple as writing:
+
+Example 1:
+```js
+  var array = ["value 1", "value 2", "value 3"];
+  console.log(array[0]); //Print value 1 as result
+```
+
 ## Objects
 
 Objects in Javascript are defined in this way:
