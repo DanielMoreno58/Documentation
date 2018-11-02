@@ -241,6 +241,30 @@ Example 4:
   console.log(maker); //Print BMW as result
 ```
 
+Example 5:
+```js
+
+  var car = {
+      make: "volvo",
+      speed: 160,
+      engine: {
+          size: 2.0,
+          make: "bmw",
+          fuel: "petrol",
+          pistons:[
+              { maker: "BMW" },
+              { maker: "BMW2" }
+          ]
+      },
+      drive: function(){ return "drive"; }
+  };
+
+  var engine = "engine";
+  var numberarray = 0;
+  var maker = car[engine]["pistons"][numberarray]["maker"];
+  console.log(maker); //Print BMW as result
+```
+
 ### Calling functions of objects (Computed Access Member)
 
 Example 1:
