@@ -98,6 +98,22 @@ Calling an array is just simple as writing:
   console.log(array[0]); //Print value 1 as result
 ```
 
+### Helpful methods in array
+
+_Notes:_
+
+1. Parameters are indicated as **p1 = parameter 1**, **p2 = parameter 2** and so on.
+2. For multiple parameters there are indicated as **mp**
+
+|     Method            |                                                      Usage                                                                                     |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------                            |
+| .length               | Return the size of the array as a number                                                                                                       |
+| .shift()              | Eliminates the first element of the array and return the size of the array                                                                     |
+| .unshift(mp)          | Add the parameters that you put in the method at the first of your array and returns the size of the array. _Requires parameter_               |
+| .pop()                | Eliminates the last element of the array and return the size of the array                                                                      |
+| .push(mp)             | Add the parameters that you put in the method at the end of your array and returns the size of the array. _Requires parameter_                 |
+| .splice(p1, p2, mp)   | Define where do you want to start modify your array _(p1)_, eliminates the number of properties _(p2)_ and add many propierties as you like _(mp)_. _Require parameters_  |
+
 ## Objects
 
 Objects in Javascript are defined in this way:
