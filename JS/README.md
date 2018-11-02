@@ -31,6 +31,27 @@ AS = Adition | Substraction
 |     Null     |          null          |
 |   Undefined  |       undefined        |
 
+## Variables 
+
+For define a variable we just write the following syntax:
+
+`var i=0;` or just simply: `i=0;`
+
+We can put any type of primative data and objets in a variable, and the cool thing about javascipt is that we can redefine the value of the variable even of type data.
+
+For example:
+
+`var i=0;` _This is an integer_
+
+`i='hello';` _Now is a string_
+
+`i=true;` _Now is a boolean_
+
+### Constant
+
+The constant is a type of variable that by the logic of the name is constant, it means that once you define it you cannot change the value, the correct syntax is the following one:
+
+`const = 'variable constant';`
 
 ## Functions
 
