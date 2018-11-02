@@ -39,7 +39,7 @@ For define a variable we just write the following syntax:
 
 We can put any type of primative data and objets in a variable, and the cool thing about javascipt is that we can redefine the value of the variable even of type data.
 
-For example:
+For :
 
 `var i=0;` _This is an integer_
 
@@ -84,7 +84,7 @@ In our code for calling our function we put:
 
 ## Arrays
 
-Array is an object that define a list of primative data, for example:
+Array is an object that define a list of primative data, for :
 
 `var students = ["Daniel", "Daniela", "Jose", "Pancho", "Josefina"];`
 
@@ -92,7 +92,7 @@ Array is an object that define a list of primative data, for example:
 
 Calling an array is just simple as writing:
 
-Example 1:
+**Example 1:**
 ```js
   var array = ["value 1", "value 2", "value 3"];
   console.log(array[0]); //Print value 1 as result
@@ -153,7 +153,7 @@ Calling objects is easy as writing the name of the object:
 
 We can call the properties of an object just by writing:
 
-Example 1:
+**Example 1:**
 ```js
 
   var car = {
@@ -175,7 +175,7 @@ Example 1:
   console.log(maker); //Print volvo as result
 ```
 
-Example 2:
+**Example 2:**
 ```js
 
   var car = {
@@ -197,7 +197,7 @@ Example 2:
   console.log(car_size); //Print 2.0 as result
 ```
 
-Example 3:
+**Example 3:**
 ```js
 
   var car = {
@@ -219,7 +219,7 @@ Example 3:
   console.log(piston_by_maker); //Print BMW as result
 ```
 
-Example 4:
+**Example 4:**
 ```js
 
   var car = {
@@ -241,7 +241,7 @@ Example 4:
   console.log(maker); //Print BMW as result
 ```
 
-Example 5:
+**Example 5:**
 ```js
 
   var car = {
@@ -267,7 +267,7 @@ Example 5:
 
 ### Calling functions of objects (Computed Access Member)
 
-Example 1:
+**Example 1:**
 ```js
   var car = {
       make: "volvo",
@@ -288,7 +288,7 @@ Example 1:
   console.log(drive); //Print drive as result
 ```
 
-Example 2:
+**Example 2:**
 ```js
 
   var array = [ 
@@ -302,6 +302,108 @@ Example 2:
   var drive = array[4]();
   console.log(drive); //Print drive as result
 ```
+
+### Create a new property and method
+
+**Example 1:**
+
+If we have an existing object such like this:
+
+```js
+  var car = {
+      make: "volvo",
+      speed: 160,
+      engine: {
+          size: 2.0,
+          make: "bmw",
+          fuel: "petrol",
+          pistons:[
+              { maker: "BMW" },
+              { maker: "BMW2" }
+          ]
+      },
+      drive: function(){ return "drive"; }
+  };
+```
+
+And we want to add another property we just add:
+
+`car.property_name = "something";`
+
+So, for example we can add the version of the car like this:
+
+`car.version = "v1";`
+
+And then the object will be like this:
+
+```js
+  var car = {
+      make: "volvo",
+      speed: 160,
+      engine: {
+          size: 2.0,
+          make: "bmw",
+          fuel: "petrol",
+          pistons:[
+              { maker: "BMW" },
+              { maker: "BMW2" }
+          ]
+      },
+      drive: function(){ return "drive"; }
+      version: "v1"; //New property added
+  };
+```
+
+**Example 2:**
+
+We can also created functions properties as well
+
+`car.stop = function(){ return "stop"; };`
+
+That will return:
+
+```js
+  var car = {
+      make: "volvo",
+      speed: 160,
+      engine: {
+          size: 2.0,
+          make: "bmw",
+          fuel: "petrol",
+          pistons:[
+              { maker: "BMW" },
+              { maker: "BMW2" }
+          ]
+      },
+      drive: function(){ return "drive"; },
+      stop: function(){ return "stop"; } //New function added
+  };
+```
+
+### Delete properties and methods
+
+For delete a property or method from an object we use the keyword `delete`, for example we have the next object:
+
+```js
+  var car = {
+      make: "volvo",
+      speed: 160,
+      engine: {
+          size: 2.0,
+          make: "bmw",
+          fuel: "petrol",
+          pistons:[
+              { maker: "BMW" },
+              { maker: "BMW2" }
+          ]
+      },
+      drive: function(){ return "drive"; }
+  };
+```
+
+And if we want to delete a property we just write:
+
+`delete car.make;`
 
 ## References:
 
