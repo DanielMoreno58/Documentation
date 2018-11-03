@@ -21,6 +21,10 @@ AS = Adition | Substraction
 
 [Precedence Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
+## How javascript runs
+
+Javascript runs as we a read a book, from left to right, to the first line to the last line.
+
 ## Primative Data
 
 |     Data     |         Syntax         |
@@ -35,7 +39,7 @@ AS = Adition | Substraction
 
 For define a variable we just write the following syntax:
 
-`var i=0;` or just simply: `i=0;`
+`var i=0;`
 
 We can put any type of primative data and objets in a variable, and the cool thing about javascipt is that we can redefine the value of the variable even of type data.
 
