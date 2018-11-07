@@ -425,6 +425,12 @@ And if we want to delete a property we just write:
 
 `delete car.make;`
 
+## Useful methods
+
+| Method              |                                         Usage                                        | Resource                           |
+| ------------------- | ------------------------------------------------------------------------------------ | ---------------------------------- |
+| onload();           |                                                                                      | _[Source](https://bit.ly/2Qsr2is)_ | 
+
 ## References:
 
 Udemy free course: https://www.udemy.com/javascript-essentials/
