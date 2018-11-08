@@ -127,6 +127,10 @@ For open and visualize the changes in local we can use this command:
 
 ---
 
+## Notes:
+
+If you don't have alternate template for product alternate templates will not show, the same goes for pages and any alternate template you want to use.
+
 ## References:
 
 [Shopify Theme Development Workflow](https://www.youtube.com/watch?v=1xWFsYmBoX0)
