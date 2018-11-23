@@ -425,6 +425,31 @@ And if we want to delete a property we just write:
 
 `delete car.make;`
 
+### Constructors
+
+Constructors is a function that has some properties and methods with the difference that the first letter should be capitalized.
+
+For example:
+
+```js
+  function Apple(color, weight){
+    color: "red",
+    weight: 20
+  }
+```
+
+### Prototype
+
+The prototype is a method that calls a construcutor and add share properties and values
+
+```js
+
+//Prototype
+Apple.prototype = {
+  eat(),
+  throw()
+}
+```
 ## Useful methods
 
 | Method              |                                         Usage                                        | Resource                           |
