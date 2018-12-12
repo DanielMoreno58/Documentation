@@ -98,6 +98,7 @@ Para más información da click [aquí](https://eric.blog/2014/05/11/remove-file
 | `git reflog`           | Muestra todos los comandos que se ejecutaron en git  |                                |
 | `git reset 'HEAD@{1}'` | Regresa a un comando que ejecutaste en git           |                                |
 | `git reset --soft HEAD~1` | Regresa al commit anterior |                                |
+| `git reset --hard 0d1d7fc32` | Regresa a un commit especifico indicando el hash del commit que se desea regresar |
 | `git rebase "branchParaCopiar"` | Copia todos los commits de un branch en otro. Tener mucho cuidado con este comando ya que sobre escribe la información de un branch |                                |
 | `git push origin "branch" -f` | Realiza un push de manera forzada | Tener cuidado con este comando porque puede sobre escribir información |
 | `git checkout -- . `   | Borra todos los archivos que modificaste antes de hacer un commit | Tener cuidado con este comando porque no se recupera la info |
