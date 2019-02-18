@@ -89,6 +89,7 @@ Para más información da click [aquí](https://eric.blog/2014/05/11/remove-file
 | `git stash clear`      | Borra todos los stash y sus contenidos               |                                |
 | `git merge "branch"`   | Hace un merge de una branch a otra                   |                                |
 | `git remote -v`        | Muestra todas los accesos remotos que se tienen de git |                              |
+| `git show <commit>:<file>` | Muestra los cambios de un archivo de un commit en especifico |                    |
 
 ## Lista de comandos peligrosos Git:
 
